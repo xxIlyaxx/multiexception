@@ -1,0 +1,17 @@
+{
+  "name": "ilya_cherepanov/multiexception",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ilya Cherepanov",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Multiexception": "src/"
+    }
+  }
+}
