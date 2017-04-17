@@ -1,7 +1,6 @@
 {
   "name": "ilya_cherepanov/multiexception",
-  "description": "description_text",
-  "minimum-stability": "stable",
+  "description": "Implementation of the multiexception pattern",
   "license": "proprietary",
   "authors": [
     {
