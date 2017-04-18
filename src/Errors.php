@@ -1,6 +1,6 @@
 <?php
 
-namespace Multiexception;
+namespace App\Multiexception;
 
 /**
  * Class Errors

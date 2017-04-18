@@ -1,6 +1,6 @@
 <?php
 
-namespace Multiexception;
+namespace App\Multiexception;
 
 trait TraitIterator
 {
@@ -41,7 +41,7 @@ trait TraitIterator
     }
 
     /**
-     * Returns status of internal poiner
+     * Returns status of internal pointer
      *
      * @return bool
      */

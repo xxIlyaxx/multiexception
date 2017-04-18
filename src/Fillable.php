@@ -1,21 +1,21 @@
 <?php
 
-namespace Multiexception;
+namespace App\Multiexception;
 
 /**
- * Class Model
+ * Class Fillable
  *
  * @package App\Models
  * @property string id
  */
-abstract class Model implements \Iterator
+abstract class Fillable implements \Iterator
 {
     use GetSet;
     use TraitIterator;
 
     /**
-     * Заполняет свойства текущей
-     * модели данными из массива $data
+     * Fills the properties with data
+     * from the $data array
      *
      * @param array $data
      * @throws Errors
